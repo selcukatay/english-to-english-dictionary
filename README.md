@@ -1,2 +1,2 @@
 # wictionary
-English to english JSON dictionary. The data extracted from https://www.wiktionary.org/ 
+English to English dictionary in JSON format. The data extracted from https://www.wiktionary.org/ 
